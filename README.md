@@ -13,8 +13,8 @@ https://www.linkedin.com/in/lianalinvik/
 
 ## 🧰 Skills & Tools
 
--UI & UX design
--User research
+- UI & UX design
+- User research
 -Prototypes, wireframes & sketches
 -User personas, stories & scenarios
 -Usability testing & evaluation
