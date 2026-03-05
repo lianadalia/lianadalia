@@ -9,7 +9,7 @@ which helps ensure everyone’s voice is heard, ultimately leading to well-round
 I specialize in Digital Services & Business that focus on improving User Experiences. 
 
 ## 🎨 The primary tools & languages I use are
-Adobe, Figma, Mural, Miro, Marvel, HTML, CSS, GIT, JavaScript and WordPress
+Adobe, Figma, Mural, Miro, Marvel,  WordPress, GitHub, HTML, CSS, GIT, JavaScript and Java
 
 For Accessibility audits I follow WCAG: text accessibility, color contrast, image alt text, keyboard navigation, screen reader compatibility, NVDA, VoiceOver, TalkBack, and ARIA attributes. 
 
@@ -18,13 +18,6 @@ I use Claude Code to build Proof of Concepts and quick demos.
 ## 📞 Contact Information
 - https://www.linkedin.com/in/lianalinvik/
 
-
-## 💻 Programming Related
-- HTML
-- CSS
-- Javascript
-- Java
-- GitHub
 
 <!--
 **lianadalia/lianadalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
