@@ -9,30 +9,30 @@ which helps ensure everyone’s voice is heard, ultimately leading to well-round
 I specialize in Digital Services & Business that focus on improving User Experiences. The primary tools & languages I use are Adobe, Figma, Mural, Marvel, HTML, and CSS. For Accessibility audits I follow WCAG: text accessibility, color contrast, image alt text, keyboard navigation, screen reader compatibility, NVDA, VoiceOver, TalkBack, and ARIA attributes.
 
 ## 📞 Contact Information
-https://www.linkedin.com/in/lianalinvik/
+- https://www.linkedin.com/in/lianalinvik/
 
 ## 🧰 Skills & Tools
 
 - UI & UX design
 - User research
--Prototypes, wireframes & sketches
--User personas, stories & scenarios
--Usability testing & evaluation
--Graphic design
--Web accessibility (WCAG) and cognitive accessibility
--Figma & Figma Make
--Adobe Cloud
--Canva
--Miro
--Mural
--Claude Code
+- Prototypes, wireframes & sketches
+- User personas, stories & scenarios
+- Usability testing & evaluation
+- Graphic design
+- Web accessibility (WCAG) and cognitive accessibility
+- Figma & Figma Make
+- Adobe Cloud
+- Canva
+- Miro
+- Mural
+- Claude Code
 
 ## 💻 Programming Related
--HTML
--CSS
--Javascript
--Java
--GitHub
+- HTML
+- CSS
+- Javascript
+- Java
+- GitHub
 
 <!--
 **lianadalia/lianadalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
