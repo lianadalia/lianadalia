@@ -8,10 +8,10 @@ which helps ensure everyone’s voice is heard, ultimately leading to well-round
 
 I specialize in Digital Services & Business that focus on improving User Experiences. The primary tools & languages I use are Adobe, Figma, Mural, Marvel, HTML, and CSS. For Accessibility audits I follow WCAG: text accessibility, color contrast, image alt text, keyboard navigation, screen reader compatibility, NVDA, VoiceOver, TalkBack, and ARIA attributes.
 
-##📞 Contact Information
+## 📞 Contact Information
 https://www.linkedin.com/in/lianalinvik/
 
-##🧰 Skills & Tools
+## 🧰 Skills & Tools
 
 -UI & UX design
 -User research
