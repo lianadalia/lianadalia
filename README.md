@@ -27,7 +27,12 @@ https://www.linkedin.com/in/lianalinvik/
 -Mural
 -Claude Code
 
-
+## 💻 Programming Related
+-HTML
+-CSS
+-Javascript
+-Java
+-GitHub
 
 <!--
 **lianadalia/lianadalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
