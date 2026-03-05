@@ -11,7 +11,7 @@ I specialize in Digital Services & Business that focus on improving User Experie
 ## 📞 Contact Information
 - https://www.linkedin.com/in/lianalinvik/
 
-## 🧰 Skills & Tools
+## 🎨 Skills & Tools
 
 - UI & UX design
 - User research
